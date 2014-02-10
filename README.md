@@ -1,4 +1,4 @@
-server
+Connectr Server
 ======
 
-tracker
+The core server code, hosted by each user.
